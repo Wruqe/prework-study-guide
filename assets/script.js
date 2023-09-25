@@ -4,7 +4,7 @@ for (var x = 0; x < topics.length; x++) {
 console.log(topics[x]);
 }
 /*
-if (topic === 'HTML') {
+if (topic === 'HTM') {
   console.log("Let's study HTML!");
 } else if (topic === 'CSS') {
   console.log("Let's study CSS!");
